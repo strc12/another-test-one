@@ -1,2 +1,2 @@
 # another-test-one
-Some stuff about hte project
+Some stuff about the project
